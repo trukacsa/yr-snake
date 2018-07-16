@@ -1,0 +1,22 @@
+.main-div {
+    max-width: 900px
+}
+.tile {
+    display: inline-block;
+    width: 20%;
+    height: 20%;
+    float: left;
+}
+.playground {
+    width: 90%;
+    height: 500px;
+}
+.empty {
+    background-color: aliceblue;   
+}
+.food {
+    background-color: red;
+}
+.snake {
+    background-color: green;
+}
